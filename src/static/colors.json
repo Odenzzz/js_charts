@@ -1,0 +1,17 @@
+{
+  "damage_types": {
+    "bludgeoning": "#8c8c8c",
+    "piercing": "#8c8c8c",
+    "slashing": "#8c8c8c",
+    "acid": "#80b000",
+    "fire": "#ee5500",
+    "cold": "#3399cc",
+    "lightning": "#3366cc",
+    "thunder": "#8844bb",
+    "poison": "#44bb00",
+    "necrotic": "#40b050",
+    "radiant": "#ccaa00",
+    "psychic": "#cc77aa",
+    "force": "#cc3333"
+  }
+}

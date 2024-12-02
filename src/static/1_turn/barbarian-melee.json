@@ -1,0 +1,862 @@
+[
+  {
+    "try": 1,
+    "turns": [
+      {
+        "turn": 1,
+        "hits": [
+          {
+            "is_hit": true,
+            "is_critical": true,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 55
+              },
+              {
+                "damage_type": "poison",
+                "damage": 4
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 24
+              },
+              {
+                "damage_type": "poison",
+                "damage": 6
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": false,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 36
+              },
+              {
+                "damage_type": "poison",
+                "damage": 5
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 36
+              },
+              {
+                "damage_type": "poison",
+                "damage": 5
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "try": 2,
+    "turns": [
+      {
+        "turn": 1,
+        "hits": [
+          {
+            "is_hit": true,
+            "is_critical": true,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 45
+              },
+              {
+                "damage_type": "poison",
+                "damage": 7
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 27
+              },
+              {
+                "damage_type": "poison",
+                "damage": 3
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 23
+              },
+              {
+                "damage_type": "poison",
+                "damage": 4
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 30
+              },
+              {
+                "damage_type": "poison",
+                "damage": 3
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "try": 3,
+    "turns": [
+      {
+        "turn": 1,
+        "hits": [
+          {
+            "is_hit": true,
+            "is_critical": true,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 37
+              },
+              {
+                "damage_type": "poison",
+                "damage": 12
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 37
+              },
+              {
+                "damage_type": "poison",
+                "damage": 5
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 37
+              },
+              {
+                "damage_type": "poison",
+                "damage": 2
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 29
+              },
+              {
+                "damage_type": "poison",
+                "damage": 2
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "try": 4,
+    "turns": [
+      {
+        "turn": 1,
+        "hits": [
+          {
+            "is_hit": true,
+            "is_critical": true,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 44
+              },
+              {
+                "damage_type": "poison",
+                "damage": 7
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": true,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 51
+              },
+              {
+                "damage_type": "poison",
+                "damage": 7
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": true,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 49
+              },
+              {
+                "damage_type": "poison",
+                "damage": 4
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 30
+              },
+              {
+                "damage_type": "poison",
+                "damage": 4
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "try": 5,
+    "turns": [
+      {
+        "turn": 1,
+        "hits": [
+          {
+            "is_hit": true,
+            "is_critical": true,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 49
+              },
+              {
+                "damage_type": "poison",
+                "damage": 5
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 36
+              },
+              {
+                "damage_type": "poison",
+                "damage": 5
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 26
+              },
+              {
+                "damage_type": "poison",
+                "damage": 4
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 28
+              },
+              {
+                "damage_type": "poison",
+                "damage": 4
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "try": 6,
+    "turns": [
+      {
+        "turn": 1,
+        "hits": [
+          {
+            "is_hit": true,
+            "is_critical": true,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 55
+              },
+              {
+                "damage_type": "poison",
+                "damage": 5
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 30
+              },
+              {
+                "damage_type": "poison",
+                "damage": 4
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 30
+              },
+              {
+                "damage_type": "poison",
+                "damage": 4
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 32
+              },
+              {
+                "damage_type": "poison",
+                "damage": 1
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "try": 7,
+    "turns": [
+      {
+        "turn": 1,
+        "hits": [
+          {
+            "is_hit": true,
+            "is_critical": true,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 56
+              },
+              {
+                "damage_type": "poison",
+                "damage": 10
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": true,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 38
+              },
+              {
+                "damage_type": "poison",
+                "damage": 8
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": true,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 42
+              },
+              {
+                "damage_type": "poison",
+                "damage": 4
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": true,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 48
+              },
+              {
+                "damage_type": "poison",
+                "damage": 4
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "try": 8,
+    "turns": [
+      {
+        "turn": 1,
+        "hits": [
+          {
+            "is_hit": true,
+            "is_critical": true,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 49
+              },
+              {
+                "damage_type": "poison",
+                "damage": 6
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 36
+              },
+              {
+                "damage_type": "poison",
+                "damage": 3
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 37
+              },
+              {
+                "damage_type": "poison",
+                "damage": 2
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 33
+              },
+              {
+                "damage_type": "poison",
+                "damage": 1
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "try": 9,
+    "turns": [
+      {
+        "turn": 1,
+        "hits": [
+          {
+            "is_hit": true,
+            "is_critical": true,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 41
+              },
+              {
+                "damage_type": "poison",
+                "damage": 8
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": true,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 51
+              },
+              {
+                "damage_type": "poison",
+                "damage": 5
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 28
+              },
+              {
+                "damage_type": "poison",
+                "damage": 5
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": true,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 54
+              },
+              {
+                "damage_type": "poison",
+                "damage": 6
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "try": 10,
+    "turns": [
+      {
+        "turn": 1,
+        "hits": [
+          {
+            "is_hit": true,
+            "is_critical": true,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 50
+              },
+              {
+                "damage_type": "poison",
+                "damage": 6
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 39
+              },
+              {
+                "damage_type": "poison",
+                "damage": 1
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": true,
+            "is_critical": false,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 39
+              },
+              {
+                "damage_type": "poison",
+                "damage": 5
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          },
+          {
+            "is_hit": false,
+            "is_critical": true,
+            "source": "player",
+            "instances": [
+              {
+                "damage_type": "slashing",
+                "damage": 54
+              },
+              {
+                "damage_type": "poison",
+                "damage": 6
+              },
+              {
+                "damage_type": "acid",
+                "damage": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
